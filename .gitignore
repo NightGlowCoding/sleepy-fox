@@ -6,3 +6,6 @@
 *.out
 *.o
 *.obj
+
+# Ignore build folder
+build/
