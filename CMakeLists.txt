@@ -9,7 +9,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # Add the executable
 add_executable(sleepyFox
-    src/hello_world.cpp
+    src/main.cpp
 )
 
 # Add include directory
